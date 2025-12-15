@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Siddhu Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=38BDF8&style=for-the-badge" alt="profile views" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Web3+Builder+%7C+Blockchain+Developer;Smart+Contracts+%7C+dApps+%7C+On-chain+Systems;Hackathon+Driven+%7C+Learning+by+Building" alt="Typing SVG" />
