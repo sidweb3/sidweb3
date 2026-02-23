@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Siddharth
 
 ## 🚀 About Me
 
